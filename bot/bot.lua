@@ -227,7 +227,7 @@ function create_config( )
 		"azan",
 		"rep"
     },
-    sudo_users = {201707431,0}, --Sudo users
+    sudo_users = {189308877,0}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 	TeleEnigma Bot !
